@@ -6,6 +6,10 @@
 var myVar = "Hello, world!";
 ```
 
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
+
 Commited by Jeremy Allemand on 18th October 2024
 
 
